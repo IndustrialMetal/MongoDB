@@ -11,6 +11,7 @@
           <node kind="schema">
             <name qname="@" />
             <name qname="my_db" />
+            <name qname="my_db2" />
           </node>
         </introspection-scope>
       </schema-mapping>
